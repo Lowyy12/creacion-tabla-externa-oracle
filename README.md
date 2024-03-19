@@ -1,1 +1,1 @@
-# creacion-tabla-externa
+# CREACION TABLA EXTERNA ORACLE
